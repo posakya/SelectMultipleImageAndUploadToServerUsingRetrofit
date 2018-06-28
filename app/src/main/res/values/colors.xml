@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tab_layout_text_Color">#ffff</color>
+    <color name="badge_Color">#97dd5b</color>
+    <color name="spinner_bacground_color">#efefee</color>
+    <color name="status_bar_color">#1c252b</color>
+
+    <color name="first_color">#215465</color>
+    <color name="second_color">#215263</color>
+    <color name="third_color">#1b414b</color>
+</resources>
